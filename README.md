@@ -9,4 +9,9 @@ By clicking on add button you can put your todo into this list.
 ## How to run
 ```
 npm install
+<<<<<<< HEAD
 npm start
+=======
+npm start
+>>>>>>> 323e041 (fix App.js)
+ 
